@@ -70,7 +70,7 @@ b {
     background-color: transparent;
 }
 .navbar{
-    padding-top:70px;
+    padding-top: 20px;
 }
 .hero.is-info .navbar-item, .hero.is-info .navbar-link {
     color: rgba(255, 255, 255, 1);
